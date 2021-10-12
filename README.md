@@ -18,24 +18,26 @@
 
 # 结构
 
-目录结构
+## 目录结构
+
+建议文件名按照 `<year>-<month>-<day>--<year>-<mouth>-<day>.md` 来进行维护。
 
 ```
 .
-├───coder01
-│   ├───week1004-1010.md
-│   └───week1011-1017.md
-├───iNeedAnApple
-│   ├───20211004-1010.md
-│   └───20211011-1017.md
-├───LinuxTheBest
-│   ├───1633276800-1633881599.md
-│   └───1633881600-1634486399.md
-├───gym-record.md
-└───README.md
+├─ coder01
+│   ├─ ...
+├─ iNeedAnApple
+│   ├─ ...
+├─ LinuxTheBest
+│   ├─ ...
+├─ gym-record.md
+└─ README.md
 ```
 
-文件结构
+## 文件结构
+
+用分割线分割为两个部分：第一个部分为散装题目，第二个部分为自己打的比赛。差不多得了。
+
 ```markdown
 # codeforces
 
@@ -62,5 +64,4 @@ Round 115
 # nowcoder
 
 20326 2021牛客国庆集训派对day5
-
 ```
