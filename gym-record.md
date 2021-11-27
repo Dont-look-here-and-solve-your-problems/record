@@ -9,3 +9,9 @@
 2021-11-03 [NWERC 2020](https://codeforces.com/gym/103049)
 
 2021-11-07 [2021-2022 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103388)
+
+2021-11-10 [2018-2019 ACM-ICPC, Asia East Continent Finals](https://codeforces.com/gym/102056)
+
+2021-11-12 [2021年中国大学生程序设计竞赛女生专场](https://codeforces.com/gym/103389)
+
+2021-11-17 [The 2021 CCPC Guilin Onsite (Grand Prix of EDG)](https://codeforces.com/gym/103409)
